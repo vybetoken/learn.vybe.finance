@@ -1,3 +1,16 @@
-# Projects
+---
+description: 'Vybe is a new, modern take on decentralized finance'
+---
 
-This repo serves as a host for our todo list and upcoming tasks. View tasks [here](https://github.com/vybetoken/projects/projects/2)
+# Welcome to Learn Vybe!
+
+![](.gitbook/assets/1500x500.jpg)
+
+## Mission
+
+Vybe is a new, modern take on decentralized finance. With multiple products that we refer to as melodies, as together they form a harmonious step forward for the industry.
+
+Our contracts were built from the ground up with upgradability in mind, which uniquely positions Vybe for flexibility in the future.
+
+
+
