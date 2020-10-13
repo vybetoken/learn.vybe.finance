@@ -1,22 +1,24 @@
 ---
-description: Follow @VybeToken on twitter or medium.com/vybetoken for all news and updates!
+description: Follow @vybetoken on twitter or medium.com/vybetoken for all news and updates!
 ---
 
 # Intro to vybe.finance
 
 ## What is vybe.finance?
 
-Vybe is a new, modern take on decentralized finance. With multiple products that we refer to as melodies, as together they form a harmonious step forward for the industry.
+vybe is a new, modern take on decentralized finance. With multiple products that we refer to as melodies, as together they form a harmonious step forward for the industry.
 
-Our contracts were built from the ground up with upgradability in mind, which uniquely positions Vybe for flexibility in the future.
+Our contracts were built from the ground up with upgradability in mind, which uniquely positions vybe for flexibility in the future.
+
+vybe must be purchased to utilize melodies, providing intrinsic value to the vybe token. You can stake your vybe to enable the ecosystem and increase your holdings.
 
 ## Governance
 
-[View the DAO contract here](https://t.co/Thkip9xdPP?amp=1)
+vybe was fully transition to a Decentralized Autonomous Organization \(DAO\) on October 9, 2020.  [View the DAO contract here](https://t.co/Thkip9xdPP?amp=1)
 
 ## Loans
 
-Our first Dapp - Vybe Loans is a cryptographically secure way to loan VYBE, where every loan is guaranteed to be paid back in full.
+Our first Dapp - vybe Loans is a cryptographically secure way to loan vybe, where every loan is guaranteed to be paid back in full.
 
 There is no risk to any participants. When they're paid back, 1% interest is earned. This interest is burnt, directly contributing its value back to the ecosystem.
 
