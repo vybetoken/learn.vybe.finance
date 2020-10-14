@@ -1,7 +1,7 @@
 ---
 description: >-
-  Fixed rates that the market can offer to you now in exchange for future
-  variable rates
+  The team has several melodies lined up and will be looking for community
+  feedback for new melodies!
 ---
 
 # Future Melodies
